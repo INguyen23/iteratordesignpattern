@@ -20,6 +20,6 @@ public class Item {
     }
 
     public void print(){
-        System.out.print(toString());
+        System.out.println(toString());
     }
 }
